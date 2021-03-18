@@ -1,0 +1,27 @@
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+video{
+    margin: 20px 0 0 0;
+}
+.video{
+    display: flex;
+    justify-content: center;
+}
+.btns{
+    display: flex;
+    justify-content: center;
+}
+.btns button{
+    margin: 5px;
+    width: 101px;
+}
+.controls{
+    display: flex;
+    justify-content: center;
+}
+.controls button{
+    margin: 5px;
+}
